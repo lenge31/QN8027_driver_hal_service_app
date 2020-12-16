@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">RF Radio</string>
+    <string name="fm_unit">MHz</string>
+	<string name="power">power</string>
+</resources>
